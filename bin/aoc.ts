@@ -1,3 +1,3 @@
-#!/usr/bin/env -S tsx
+#!/usr/bin/env -S npx tsx
 
 import '../src/index.js'
